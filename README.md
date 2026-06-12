@@ -1,16 +1,23 @@
-## Hi there 👋
 
-<!--
-**khushwantrathore/khushwantrathore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Khushwant 👋
 
-Here are some ideas to get you started:
+🎓 BCA Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Aspiring Full Stack Developer
+
+🌱 Currently Learning HTML, CSS and Java
+
+🚀 Building My Developer Journey
+
+## Goals
+- Become a Full Stack Developer
+- Build Real World Projects
+- Learn DSA and Java
+- Contribute on GitHub
+
+## Skills
+- HTML
+- CSS
+- Java (Learning)
+
+⭐ Always Learning and Improving
